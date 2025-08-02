@@ -62,7 +62,7 @@ If you'd like to improve or extend the project, feel free to fork it and submit 
 
 📧 Contact
 Gaurav Manik
-📮 [gauravmanik@gmail.com]
+📮 [gauravmanik371@gmail.com]
 
 📝 License
 This project is licensed under the MIT License.
